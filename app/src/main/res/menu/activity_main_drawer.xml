@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/code_race_tp_1"
+            android:icon="@drawable/ic_directions_tri_white_48dp"
+            android:title="@string/code_race_tp_1" />
+        <item
+            android:id="@+id/code_race_tp_2"
+            android:icon="@drawable/ic_pool_white_48dp"
+            android:title="@string/code_race_tp_2" />
+        <item
+            android:id="@+id/code_race_tp_3"
+            android:icon="@drawable/ic_directions_bike_white_48dp"
+            android:title="@string/code_race_tp_3" />
+        <item
+            android:id="@+id/code_race_tp_4"
+            android:icon="@drawable/ic_directions_run_white_48dp"
+            android:title="@string/code_race_tp_4" />
+        <item
+            android:id="@+id/code_race_tp_5"
+            android:icon="@drawable/ic_grade_white_48dp"
+            android:title="@string/code_race_tp_5" />
+    </group>
+
+    <item android:title="@string/etc">
+        <menu>
+            <item
+                android:id="@+id/nav_user"
+                android:icon="@drawable/ic_person_white_48dp"
+                android:title="@string/user" />
+        </menu>
+    </item>
+
+</menu>

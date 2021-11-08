@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">Runch</string>
+
+    <string name="google_maps_key">AIzaSyClvv7t63WTeCRm-OfxkchIcmNhu7PgAmI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- Toolbar -->
+    <string name="action_filter">Filter</string>
+
+
+    <!-- Tag ID -->
+    <string name="tag_path">path</string>
+    <string name="tag_filename">filename</string>
+    <string name="tag_race_id">race_id</string>
+    <string name="tag_race_tp">race_tp</string>
+    <string name="tag_race_dt_year">race_dt_year</string>
+    <string name="tag_race_dt_month">race_dt_month</string>
+    <string name="tag_my_like_race">my_like_race</string>
+    <string name="tag_my_comment">my_comment</string>
+    <string name="tag_like_race">like_race</string>
+    <string name="tag_like_race_cnt">like_race_cnt</string>
+    <string name="tag_position">position</string>
+    <string name="tag_like_comment">like_comment</string>
+    <string name="tag_like_comment_cnt">like_comment_cnt</string>
+    <string name="tag_my_race">my_race</string>
+    <string name="tag_comment_id">comment_id</string>
+    <string name="tag_reply_cnt">reply_cnt</string>
+    <string name="tag_regi_yn">regi_yn</string>
+
+    <string name="menu_lock">Lock</string>
+    <string name="menu_unlock">Unlock</string>
+
+
+    <!-- Popup msg -->
+    <string name="network_error_title">Network Error</string>
+    <string name="network_error_msg">Network Error</string>
+    <string name="msg_content">Please check a Content</string>
+    <string name="msg_delete_comment_warring">You want to delete?</string>
+    <string name="msg_bad_comment_warring">You want to bad comment?</string>
+    <string name="msg_logout_warring">You want to logout?</string>
+    <string name="msg_modify_email">Input modify email</string>
+
+
+    <!-- Filter -->
+    <string name="race_dt">Date</string>
+    <string name="race_dt_desc">Please select an inquiry date</string>
+    <string name="race_dt_year">2016</string>
+    <string name="race_dt_month">01</string>
+    <string name="search_tp">Search Type</string>
+    <string name="search_tp_desc1">Race:Open Race</string>
+    <string name="search_tp_desc2">End Race:Before Race</string>
+    <string name="city">City</string>
+    <string name="city_desc">Multiple selection</string>
+    <string name="regi_yn">Reception availability</string>
+    <string name="regi_yn_desc">Choice only competition inquiry</string>
+
+
+    <!-- Button -->
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="signup">Signup</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="done">Done</string>
+    <string name="send">Send</string>
+    <string name="cancel">Cancel</string>
+    <string name="google_play">Google Play</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="reply">Reply</string>
+    <string name="notice">Notice</string>
+    <string name="warning">Warning</string>
+    <string name="summary">Summary</string>
+    <string name="gallery">Gallery</string>
+    <string name="event">Event</string>
+    <string name="detail">Detail</string>
+    <string name="register">Register</string>
+    <string name="homepage">Homepage</string>
+    <string name="more">More</string>
+    <string name="calendar">Calendar</string>
+    <string name="etc">Etc</string>
+    <string name="setting">Setting</string>
+    <string name="user">User</string>
+    <string name="deadline">Deadline</string>
+    <string name="price">Price</string>
+    <string name="host">Host</string>
+    <string name="main">Main</string>
+    <string name="password_change">Password Change</string>
+    <string name="original_password">Original Password</string>
+    <string name="new_password">New Password</string>
+
+
+    <!-- Title -->
+    <string name="comment_write">Comment Write</string>
+    <string name="comment_hint">Please write within 100 characters.</string>
+
+
+    <!-- Desc -->
+    <string name="signup_desc">"Don't have an account?"</string>
+
+
+    <!-- Transition Name -->
+    <string name="trans_cardview">trans cardview</string>
+
+
+    <!-- Code Value -->
+    <string name="dialog_year_title">Year</string>
+    <string name="dialog_year_15">2015</string>
+    <string name="dialog_year_16">2016</string>
+    <string name="dialog_year_17">2017</string>
+    <string name="dialog_year_18">2018</string>
+    <string name="year">Year</string>
+
+    <string name="dialog_month_title">Month</string>
+    <string name="dialog_month_1">1</string>
+    <string name="dialog_month_2">2</string>
+    <string name="dialog_month_3">3</string>
+    <string name="dialog_month_4">4</string>
+    <string name="dialog_month_5">5</string>
+    <string name="dialog_month_6">6</string>
+    <string name="dialog_month_7">7</string>
+    <string name="dialog_month_8">8</string>
+    <string name="dialog_month_9">9</string>
+    <string name="dialog_month_10">10</string>
+    <string name="dialog_month_11">11</string>
+    <string name="dialog_month_12">12</string>
+    <string name="month">Month</string>
+
+    <string name="code_search_tp_1">All</string>
+    <string name="code_search_tp_2">Race</string>
+    <string name="code_search_tp_3">End Race</string>
+    <string name="code_nation_1">Home</string>
+    <string name="code_nation_2">Away</string>
+    <string name="code_city_01">Seoul</string>
+    <string name="code_city_02">Busan</string>
+    <string name="code_city_03">Daegu</string>
+    <string name="code_city_04">Incheon</string>
+    <string name="code_city_05">Gwangju</string>
+    <string name="code_city_06">DaeJeon</string>
+    <string name="code_city_07">Ulsan</string>
+    <string name="code_city_08">Sejong</string>
+    <string name="code_city_09">Gyeonggi</string>
+    <string name="code_city_10">Gangwon</string>
+    <string name="code_city_11">Chungbuk</string>
+    <string name="code_city_12">Chungnam</string>
+    <string name="code_city_13">Chonbuk</string>
+    <string name="code_city_14">Chonnam</string>
+    <string name="code_city_15">Gyeongbuk</string>
+    <string name="code_city_16">Gyeongnam</string>
+    <string name="code_city_17">Jeju</string>
+
+    <string name="code_race_tp_1">Triathlon</string>
+    <string name="code_race_tp_2">Swim</string>
+    <string name="code_race_tp_3">Bike</string>
+    <string name="code_race_tp_4">Run</string>
+    <string name="code_race_tp_5">My Race</string>
+    <string name="code_regi_yn">Booking</string>
+
+    <string name="code_comment_dt2_cd_1">year</string>
+    <string name="code_comment_dt2_cd_2">month</string>
+    <string name="code_comment_dt2_cd_3">week</string>
+    <string name="code_comment_dt2_cd_4">d</string>
+    <string name="code_comment_dt2_cd_5">h</string>
+    <string name="code_comment_dt2_cd_6">m</string>
+    <string name="code_comment_dt2_cd_7">s</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_nickname">Nickname</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_login_short">Login</string>
+    <string name="action_signup">Register</string>
+    <string name="action_signup_short">Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_nickname">This nickname is invalid</string>
+    <string name="error_invalid_password">This password is invalid</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

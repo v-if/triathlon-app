@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Code Value -->
+    <string name="dialog_year_title">Year</string>
+    <string name="dialog_year_15">2015년</string>
+    <string name="dialog_year_16">2016년</string>
+    <string name="dialog_year_17">2017년</string>
+    <string name="dialog_year_18">2018년</string>
+    <string name="year">년</string>
+    
+    <string name="dialog_month_title">Month</string>
+    <string name="dialog_month_1">1월</string>
+    <string name="dialog_month_2">2월</string>
+    <string name="dialog_month_3">3월</string>
+    <string name="dialog_month_4">4월</string>
+    <string name="dialog_month_5">5월</string>
+    <string name="dialog_month_6">6월</string>
+    <string name="dialog_month_7">7월</string>
+    <string name="dialog_month_8">8월</string>
+    <string name="dialog_month_9">9월</string>
+    <string name="dialog_month_10">10월</string>
+    <string name="dialog_month_11">11월</string>
+    <string name="dialog_month_12">12월</string>
+    <string name="month">월</string>
+    
+    <string name="code_search_tp_1">전체</string>
+    <string name="code_search_tp_2">대회</string>
+    <string name="code_search_tp_3">종료대회</string>
+    <string name="code_nation_1">국내</string>
+    <string name="code_nation_2">국외</string>
+    <string name="code_city_01">서울</string>
+	<string name="code_city_02">부산</string>
+	<string name="code_city_03">대구</string>
+	<string name="code_city_04">인천</string>
+	<string name="code_city_05">광주</string>
+	<string name="code_city_06">대전</string>
+	<string name="code_city_07">울산</string>
+	<string name="code_city_08">세종</string>
+	<string name="code_city_09">경기</string>
+	<string name="code_city_10">강원</string>
+	<string name="code_city_11">충북</string>
+	<string name="code_city_12">충남</string>
+	<string name="code_city_13">전북</string>
+	<string name="code_city_14">전남</string>
+	<string name="code_city_15">경북</string>
+	<string name="code_city_16">경남</string>
+	<string name="code_city_17">제주</string>
+
+    <string name="code_race_tp_1">철인3종경기</string>
+    <string name="code_race_tp_2">수영</string>
+    <string name="code_race_tp_3">사이클</string>
+    <string name="code_race_tp_4">마라톤</string>
+    <string name="code_race_tp_5">즐겨찾기</string>
+    <string name="code_regi_yn">접수중</string>
+    
+    <string name="code_comment_dt2_cd_1">년전</string>
+    <string name="code_comment_dt2_cd_2">개월전</string>
+    <string name="code_comment_dt2_cd_3">주전</string>
+    <string name="code_comment_dt2_cd_4">일전</string>
+    <string name="code_comment_dt2_cd_5">시간전</string>
+    <string name="code_comment_dt2_cd_6">분전</string>
+    <string name="code_comment_dt2_cd_7">초전</string>
+
+</resources>
