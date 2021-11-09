@@ -3,7 +3,8 @@
 * 개발기간 : 2015.10 ~ 2016.01
 * 주요내용 : 철인3종경기 대회정보 및 Google Map을 이용한 코스정보, 고도정보 제공
 * 작업내용 : 기획, 설계, DB, 서버구축, 안드로이드 개발
-* System : Spring Framework, MySQL, iBatis, Android, Google Map API, 오픈 라이브러리 사용
+* Server : Spring Framework, MySQL, iBatis
+* Client : Android, Google Map API
 * 결과/성과 :
 개인프로젝트를 통해 안드로이드 개발 경력을 쌓고자 노력하고 있습니다. 평소 체력관리로 틈틈이 참가했던 철인3종 경기 정보 플랫폼이 모바일 앱으로 구축되어 있지 않는 시장 환경을 파악하고 앱 개발에 착수해, 퇴근 후나 주말의 자투리 시간을 투자해 앱기획, 설계, DB, 서버구축, 안드로이드 개발 등을 진행해 ‘RUNCH’라는 철인3종 경기 정보 제공 플랫폼을 구축했습니다. 이전에 틈틈이 공부한 것을 바탕으로 Spring Framework로 개발하였으며 DB는 MySQL, iBatis 기반으로 구축하였습니다. 평소 주 업무로 DB를 다루는 역할을 많이 하여 DB설계나 SQL작성 및 최적화에 대해서는 큰 어려움 없이 개발할 수 있었습니다.  
 ### ScreenShot 
